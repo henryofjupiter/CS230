@@ -1,4 +1,4 @@
-# CS230
+# CS230 Journal Entry
 
 **Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
 The Gaming Room client, Draw it or Lose it, wanted to develop a cross-platform software game that is based on a gameshow from the distant past. This game enables individuals to guess the puzzle based on clues from rendered images.
